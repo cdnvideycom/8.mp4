@@ -32,7 +32,8 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("", "_blank");
+    window.open("https://cdn.videy.co/AeZ9FT6U1.mp4", "_blank");
 });
+
 
 
